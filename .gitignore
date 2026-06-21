@@ -12,3 +12,6 @@ chroma_db
 
 # env
 .env
+
+.idea/
+reviews_parsing.py
